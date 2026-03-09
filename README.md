@@ -1,0 +1,53 @@
+# Katy Perry – The One That Got Away (Acoustic)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.89] Summer after high school, when we first met
+[00:11.69] We'd make-out in your Mustang to Radiohead
+[00:15.49] And on my 18th birthday, we got matching tattoos
+[00:39.49] 
+[00:22.82] Used to steal your parents liquor and climb to the roof
+[00:27.13] Talk about our future like we had a clue
+[00:31.08] Never planned that one day I'd be losing you
+[00:53.08] 
+[00:36.95] In another life, I would be your girl
+[00:44.44] We'd keep all our promises, be us against the world
+[00:52.30] In another life, I would make you stay
+[00:59.89] So I don't have to say you were the one that got away
+[01:07.52] The one that got away
+[01:18.02] 
+[01:13.59] I was June, and you were my Johnny Cash
+[01:17.26] Never one without the other, we made a pact
+[01:21.32] Sometimes when I miss you, I put those records on, woah
+[01:48.82] 
+[01:29.01] Someone said you had your tattoo removed
+[01:32.92] Saw you downtown, singing the blues
+[01:36.79] It's time to face the music, I'm no longer your muse
+[02:02.79] 
+[01:42.77] In another life, I would be your girl
+[01:50.25] We keep all our promises, be us against the world
+[01:58.04] In another life, I would make you stay
+[02:05.51] So I don't have to say you were the one that got away
+[02:13.35] The one that got away
+[02:23.85] 
+[02:19.00] The one (the one), the one (the one)
+[02:26.68] Oh, the one, the one, the one, the one, the one
+[02:50.18] 
+[02:32.86] All this money can't buy me a time machine, no
+[02:40.98] Can't replace you with a million rings, no
+[02:48.24] I should've told you what you meant to me, whoa
+[02:56.08] 'Cause now I pay the price
+[03:09.08] 
+[03:00.12] In another life, I would be your girl
+[03:07.75] We keep all our promises, be us against the world
+[03:15.56] In another life, I would make you stay
+[03:22.91] So I don't have to say you were the one that got away
+[03:30.95] The one that got away
+[03:41.45] 
+[03:44.25] The one
+[03:47.75] 
+[03:46.83] In another life, I would make you stay
+[03:54.08] So I don't have to say you were the one that got away
+[04:03.04] The one that got away
+```
