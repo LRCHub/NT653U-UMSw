@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "The One That Got Away (Acoustic)",
+  "base_artist": "Katy Perry",
+  "createdAt": "2026-03-09T17:07:18.355646Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The One That Got Away (Acoustic)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/01_The_One_That_Got_Away_(Acoustic)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The One That Got Away (Acoustic)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/02_The_One_That_Got_Away_(Acoustic)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The One That Got Away (Acoustic)",
+      "artist": "Katy Perry",
+      "has_synced": false,
+      "path": "select/03_The_One_That_Got_Away_(Acoustic)_Katy_Perry.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The One That Got Away (Acoustic)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/04_The_One_That_Got_Away_(Acoustic)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The One That Got Away - Acoustic",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/05_The_One_That_Got_Away_-_Acoustic_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The one that got away (acoustic)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/06_The_one_that_got_away_(acoustic)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The One That Got Away (Acoustic Version)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/07_The_One_That_Got_Away_(Acoustic_Version)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The One That Got Away (acoustic)",
+      "artist": "The Civil Wars",
+      "has_synced": true,
+      "path": "select/08_The_One_That_Got_Away_(acoustic)_The_Civil_Wars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The One That Got Away (Acoustic)",
+      "artist": "Landon Austin",
+      "has_synced": false,
+      "path": "select/09_The_One_That_Got_Away_(Acoustic)_Landon_Austin.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The One That Got Away (acoustic)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/10_The_One_That_Got_Away_(acoustic)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The One that Got Away (Acoustic)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/11_The_One_that_Got_Away_(Acoustic)_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The One That Got Away (Acoustic)",
+      "artist": "Jonah Baker",
+      "has_synced": true,
+      "path": "select/12_The_One_That_Got_Away_(Acoustic)_Jonah_Baker.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The One That Got Away (acoustic version)",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/13_The_One_That_Got_Away_(acoustic_version)_Katy_Perry.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The One That Got Away (Acoustic)",
+      "artist": "Katy Perry",
+      "has_synced": false,
+      "path": "select/pl_01_The_One_That_Got_Away_(Acoustic)_Katy_Perry.txt"
+    }
+  ]
+}
